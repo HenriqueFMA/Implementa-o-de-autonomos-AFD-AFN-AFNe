@@ -14,8 +14,8 @@ import java.util.TreeSet;
 //  q1   {}     {q2}
 // *q2   {}     {}
 
-//010 n aceita
-//111 aceita
+//010  aceita
+//111 n aceita
 
 
 public class AFNEparalelo {
